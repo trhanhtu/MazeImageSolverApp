@@ -1,0 +1,1 @@
+..\..\activate && py imgsocket.py
